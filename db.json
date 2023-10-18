@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "rinku",
+      "password": "rinku123",
+      "fullname": "rinku sahu",
+      "email": "rinku@gmail.com",
+      "phone": "09630634397",
+      "country": "India"
+    },
+    {
+      "id": "seema",
+      "password": "seema2",
+      "fullname": "seema",
+      "email": "seemasahu5866@gmail.com",
+      "phone": "09630634397",
+      "country": "India"
+    },
+    {
+      "id": "manoj2@gmail.com",
+      "password": "Manoj@11",
+      "fullname": "Manoj Kumar",
+      "email": "manojsahu15866@gmail.com",
+      "phone": "09630634397",
+      "country": "India"
+    },
+    {
+      "id": "bunty",
+      "password": "bunty123",
+      "fullname": "bunty sahu",
+      "email": "bunty@gmail.com",
+      "phone": "09630634397",
+      "country": "India"
+    }
+  ]
+}
